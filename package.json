@@ -1,12 +1,12 @@
 {
-  "name": "my-package",
+  "name": "slot-shopeepay-hoki",
   "main": "./lib/my-package",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "my-package:toggle"
+    "atom-workspace": "slot-shopeepay-hoki:toggle"
   },
   "repository": "https://github.com/atom/my-package",
   "license": "MIT",
